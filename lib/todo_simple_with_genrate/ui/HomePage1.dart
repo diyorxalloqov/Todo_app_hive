@@ -1,4 +1,4 @@
-import 'package:database/todo_simple/db/db_service1.dart';
+import 'package:database/todo_simple_with_genrate/db/db_service1.dart';
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
 
